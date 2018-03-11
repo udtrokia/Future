@@ -23,25 +23,25 @@
 
 #### Dashboard
 
-[grafana](https://grafana.com)
++ [grafana](https://grafana.com)
 
-[metabase](https://github.com/metabase/metabase)
++ [metabase](https://github.com/metabase/metabase)
 
-[dashboards](http://keen.github.io/dashboards/)
++ [dashboards](http://keen.github.io/dashboards/)
 
 
 
 #### Server
 
-[netlify](https://www.netlify.com)
++ [netlify](https://www.netlify.com)
 
-[surge](https://surge.sh/)
++ [surge](https://surge.sh/)
 
-[heroku](https://github.com/heroku/heroku-buildpack-static)
++ [heroku](https://github.com/heroku/heroku-buildpack-static)
 
-[now](https://zeit.co/now)
++ [now](https://zeit.co/now)
 
-[next](https://zeit.co/now)
++ [next](https://zeit.co/now)
 
 
 
@@ -51,19 +51,18 @@
 + [how to graphql](https://www.howtographql.com)
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 + [prisma](https://github.com/graphcool/prisma)
-+ ​
 
 
 
 #### Storage
 
-[docker](https://www.docker.com)
++ [docker](https://www.docker.com)
 
-[kubernetes](https://kubernetes.io)
++ [kubernetes](https://kubernetes.io)
 
-[minio](https://minio.io)
++ [minio](https://minio.io)
 
-[rclone](https://rclone.org)
++ [rclone](https://rclone.org)
 
 
 
