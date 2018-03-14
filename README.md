@@ -25,16 +25,9 @@
 + [open-color](https://yeun.github.io/open-color/)
 + [glamorous](https://glamorous.rocks)
 + [glamor](https://github.com/threepointone/glamor)
-
-
-
-#### Dashboard
-
-+ [grafana](https://grafana.com)
-+ [metabase](https://github.com/metabase/metabase)
-+ [dashboards](http://keen.github.io/dashboards/)
-
-
++ [emotion](https://emotion.sh)
++ [styled-component](https://www.styled-components.com)
++ [next](https://zeit.co/now)
 
 #### Server
 
@@ -42,8 +35,6 @@
 + [surge](https://surge.sh/)
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
 + [now](https://zeit.co/now)
-+ [next](https://zeit.co/now)
-
 
 
 #### GraphQL
@@ -53,17 +44,6 @@
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 + [prisma](https://github.com/graphcool/prisma)
 
-
-
-#### Storage
-
-+ [docker](https://www.docker.com)
-+ [kubernetes](https://kubernetes.io)
-+ [minio](https://minio.io)
-+ [rclone](https://rclone.org)
-
-
-
 #### Platform
 
 + [apollo](http://apollo.auto)
@@ -72,7 +52,12 @@
 + [reaction](https://reactioncommerce.com)
 + [sentry](https://sentry.io/welcome/)
 
+#### Storage
 
++ [docker](https://www.docker.com)
++ [kubernetes](https://kubernetes.io)
++ [minio](https://minio.io)
++ [rclone](https://rclone.org)
 
 #### Framework
 
@@ -101,5 +86,8 @@
 + [echarts](http://echarts.baidu.com)
 + [rechatrs](http://recharts.org)
 
+#### Dashboard
 
-
++ [grafana](https://grafana.com)
++ [metabase](https://github.com/metabase/metabase)
++ [dashboards](http://keen.github.io/dashboards/)
