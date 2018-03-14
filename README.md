@@ -17,9 +17,14 @@
 
 + [gatsby](https://www.gatsbyjs.org)
 + [preact](https://preactjs.com)
++ [electron](https://electronjs.org)
 + [reactotron](https://github.com/infinitered/reactotron)
 
+#### CSS
 
++ [open-color](https://yeun.github.io/open-color/)
++ [glamorous](https://glamorous.rocks)
++ [glamor](https://github.com/threepointone/glamor)
 
 #### Dashboard
 
@@ -70,7 +75,7 @@
 #### Framework
 
 + [mean](http://mean.io)
-
++ [vulcan](http://vulcanjs.org)
 
 
 #### CMS
@@ -83,9 +88,16 @@
 #### Toolkit
 
 + [prettier](https://prettier.io)
-+ [vulcan](http://vulcanjs.org)
++ [TSLint](https://palantir.github.io/tslint/)
++ [Jest](https://facebook.github.io/jest/)
++ [Enzyme](http://airbnb.io/enzyme/)
 
 
+#### Graph
+
++ [rough](http://roughjs.com)
++ [echarts](http://echarts.baidu.com)
++ [rechatrs](http://recharts.org)
 
 
 
