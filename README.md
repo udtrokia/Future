@@ -29,6 +29,10 @@
 + [styled-component](https://www.styled-components.com)
 + [next](https://zeit.co/now)
 
+#### Plugin
+
++ [pell](https://jaredreich.com/pell)
+
 #### Server
 
 + [netlify](https://www.netlify.com)
