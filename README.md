@@ -92,6 +92,7 @@
 + [rough](http://roughjs.com)
 + [echarts](http://echarts.baidu.com)
 + [rechatrs](http://recharts.org)
++ [tui-chart](https://github.com/nhnent/tui.chart)
 
 #### Dashboard
 
