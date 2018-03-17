@@ -48,7 +48,6 @@
 
 + [apollo](http://apollo.auto)
 + [relay](https://facebook.github.io/relay/)
-+ [yogo](https://github.com/facebook/yoga)
 + [reaction](https://reactioncommerce.com)
 + [sentry](https://sentry.io/welcome/)
 
@@ -70,7 +69,11 @@
 + [realx](https://github.com/relax/relax )
 + [netlify-cms](https://www.netlifycms.org)
 
+#### WorkFLow
 
++ [yogo](https://github.com/facebook/yoga)
++ [flow](https://github.com/facebook/flow)
++ [yeoman](http://yeoman.io/)
 
 #### Toolkit
 
