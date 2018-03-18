@@ -28,6 +28,7 @@
 + [emotion](https://emotion.sh)
 + [styled-component](https://www.styled-components.com)
 + [next](https://zeit.co/now)
++ [i18n](http://i18next.com/)
 
 #### Plugin
 
@@ -59,6 +60,7 @@
 
 + [docker](https://www.docker.com)
 + [kubernetes](https://kubernetes.io)
++ [gitkube](https://gitkube.sh)
 + [minio](https://minio.io)
 + [rclone](https://rclone.org)
 
@@ -89,10 +91,14 @@
 
 #### Graph
 
++ [d3](https://github.com/d3/d3)
++ [victory](http://formidable.com/open-source/victory/)
 + [rough](http://roughjs.com)
++ [plotly](https://plot.ly)
 + [echarts](http://echarts.baidu.com)
 + [rechatrs](http://recharts.org)
 + [tui-chart](https://github.com/nhnent/tui.chart)
++ [pycallgraph](https://github.com/gak/pycallgraph)
 
 #### Dashboard
 
