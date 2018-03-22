@@ -56,6 +56,7 @@
 
 #### Platform
 
++ [beaker](https://beakerbrowser.com)
 + [apollo](http://apollo.auto)
 + [relay](https://facebook.github.io/relay/)
 + [reaction](https://reactioncommerce.com)
@@ -96,6 +97,7 @@
 + [Enzyme](http://airbnb.io/enzyme/)
 + [propel](http://propelml.org/)
 + [rimraf](https://github.com/isaacs/rimraf)
++ [microjs](http://microjs.com/#)
 
 #### Graph
 
