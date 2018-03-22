@@ -88,7 +88,7 @@
 + [TSLint](https://palantir.github.io/tslint/)
 + [Jest](https://facebook.github.io/jest/)
 + [Enzyme](http://airbnb.io/enzyme/)
-
++ [propel](http://propelml.org/)
 
 #### Graph
 
