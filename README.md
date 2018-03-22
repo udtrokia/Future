@@ -41,7 +41,11 @@
 + [surge](https://surge.sh/)
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
 + [now](https://zeit.co/now)
-
++ [micro](https://zeit.co/blog/micro-8)
++ [umi](https://umijs.org/)
++ [next](https://zeit.co/blog/next5)
++ [adonis](http://adonisjs.com)
++ [hapi](http://hapijs.com)
 
 #### GraphQL
 
