@@ -22,6 +22,7 @@
 
 #### CSS
 
++ [animejs](http://animejs.com)
 + [open-color](https://yeun.github.io/open-color/)
 + [glamorous](https://glamorous.rocks)
 + [glamor](https://github.com/threepointone/glamor)
@@ -92,6 +93,7 @@
 #### Graph
 
 + [d3](https://github.com/d3/d3)
++ [GraphicsJS](http://www.graphicsjs.org/)
 + [victory](http://formidable.com/open-source/victory/)
 + [rough](http://roughjs.com)
 + [plotly](https://plot.ly)
