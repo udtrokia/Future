@@ -92,6 +92,7 @@
 + [prettier](https://prettier.io)
 + [TSLint](https://palantir.github.io/tslint/)
 + [Jest](https://facebook.github.io/jest/)
++ [xo](https://github.com/xojs/xo)
 + [Enzyme](http://airbnb.io/enzyme/)
 + [propel](http://propelml.org/)
 + [rimraf](https://github.com/isaacs/rimraf)
