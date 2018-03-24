@@ -2,7 +2,7 @@
 # Books
 _books collection_  
 
-+ [jupyter](https://github.com/coderefinery/jupyter/tree/master/data)
++ [jupyter](https://github.com/jupyter/jupyter)
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 + [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 + [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
