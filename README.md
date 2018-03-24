@@ -25,7 +25,8 @@ _Collection for Open-mind_
 + [i18n](http://i18next.com/)
 
 ## Plugin
-  + [pell](https://jaredreich.com/pell)
++ [pell](https://jaredreich.com/pell)
++ [Cleave](http://nosir.github.io/cleave.js)
 
 ## Server
 + [netlify](https://www.netlify.com)
@@ -37,13 +38,13 @@ _Collection for Open-mind_
 + [next](https://zeit.co/blog/next5)
 + [adonis](http://adonisjs.com)
 + [hapi](http://hapijs.com)
++ [rawgit](https://github.com/rgrove/rawgit)
 
 ## GraphQL
 + [graphql](http://graphql.org/)
 + [how to graphql](https://www.howtographql.com)
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 + [prisma](https://github.com/graphcool/prisma)
-
 
 ## Platform
 + [beaker](https://beakerbrowser.com)
@@ -66,6 +67,7 @@ _Collection for Open-mind_
 ## CMS
 + [realx](https://github.com/relax/relax )
 + [netlify-cms](https://www.netlifycms.org)
++ [aposttophe](https://github.com/apostrophecms/apostrophe)
 
 ## WorkFLow
 + [yogo](https://github.com/facebook/yoga)
