@@ -16,6 +16,7 @@ _Collection for Open-mind_
 
 ## CSS
 + [animejs](http://animejs.com)
++ [gestalt](https://github.com/pinterest/gestalt)
 + [open-color](https://yeun.github.io/open-color/)
 + [glamorous](https://glamorous.rocks)
 + [glamor](https://github.com/threepointone/glamor)
@@ -76,6 +77,8 @@ _Collection for Open-mind_
 
 ## Toolkit
   + [lerna](https://lernajs.io)
+  + [diff2html](https://github.com/rtfpessoa/diff2html)
+  + [pinchzoom](https://github.com/manuelstofer/pinchzoom)
   + [prettier](https://prettier.io)
   + [TSLint](https://palantir.github.io/tslint/)
   + [Jest](https://facebook.github.io/jest/)
