@@ -3,7 +3,7 @@
 _Collection for Open-mind_  
 
 ### Links
-+ [keys](/keywords.md)
++ [keywords](/keywords.md)
 + [cookies](/cookies.md)
 + [books](/books.md)
 + [node](/node.md)
