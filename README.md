@@ -1,18 +1,6 @@
 
 ## Focus on the Future
 
-- React
-- Dashboard
-- Server
-- Platform
-- Serverless
-- Blockchain
-- Recommend System
-- Framework
-- Toolkit
-
-
-
 #### React
 
 + [gatsby](https://www.gatsbyjs.org)
