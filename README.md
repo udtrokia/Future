@@ -1,8 +1,9 @@
 
 # Focus on the Future
+_Collection for Open-mind_  
 
 ### Links
-+ [keys](/keys.md)
++ [keys](/keywords.md)
 + [cookies](/cookies.md)
 + [books](/books.md)
 + [node](/node.md)
