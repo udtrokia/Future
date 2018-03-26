@@ -16,6 +16,7 @@
 + [now](https://zeit.co/now)
 
 ## CLI
++ [Pri](https://github.com/prijs/pri)
 + [micro](https://zeit.co/blog/micro-8)
 + [oclif](https://oclif.io)
 + [umi](https://umijs.org/)
