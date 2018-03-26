@@ -2,6 +2,7 @@
 # Books
 _books collection_  
 
++ [awesome-no-js-web-frameworks](https://github.com/vindarel/awesome-no-js-web-frameworks)
 + [jupyter](https://github.com/jupyter/jupyter)
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 + [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)

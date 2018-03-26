@@ -1,6 +1,6 @@
 
-# Focus on the Future
-_Collection for Open-mind_  
+# Collection to Open-mind
+
 
 ### Links
 + [keywords](/keywords.md)
@@ -15,6 +15,9 @@ _Collection for Open-mind_
 + [reactotron](https://github.com/infinitered/reactotron)
 
 ## CSS
++ [react-reveal](https://www.react-reveal.com/)
++ [react-spring](https://github.com/drcmda/react-spring)
++ [downshift](https://github.com/paypal/downshift)
 + [animejs](http://animejs.com)
 + [gestalt](https://github.com/pinterest/gestalt)
 + [open-color](https://yeun.github.io/open-color/)
@@ -22,12 +25,16 @@ _Collection for Open-mind_
 + [glamor](https://github.com/threepointone/glamor)
 + [emotion](https://emotion.sh)
 + [styled-component](https://www.styled-components.com)
++ [react-content-loader](https://github.com/danilowoz/react-content-loader)
 + [next](https://zeit.co/now)
 + [i18n](http://i18next.com/)
 
 ## Plugin
++ [react-contextual](https://github.com/drcmda/react-contextual)
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)
++ [oni](http://onivim.io)
++ 
 
 ## Server
 + [netlify](https://www.netlify.com)
@@ -76,17 +83,18 @@ _Collection for Open-mind_
 + [yeoman](http://yeoman.io/)
 
 ## Toolkit
-  + [lerna](https://lernajs.io)
-  + [diff2html](https://github.com/rtfpessoa/diff2html)
-  + [pinchzoom](https://github.com/manuelstofer/pinchzoom)
-  + [prettier](https://prettier.io)
-  + [TSLint](https://palantir.github.io/tslint/)
-  + [Jest](https://facebook.github.io/jest/)
-  + [xo](https://github.com/xojs/xo)
-  + [Enzyme](http://airbnb.io/enzyme/)
-  + [propel](http://propelml.org/)
-  + [rimraf](https://github.com/isaacs/rimraf)
-  + [microjs](http://microjs.com/#)
++ [lerna](https://lernajs.io)
++ [diff2html](https://github.com/rtfpessoa/diff2html)
++ [pinchzoom](https://github.com/manuelstofer/pinchzoom)
++ [prettier](https://prettier.io)
++ [TSLint](https://palantir.github.io/tslint/)
++ [Jest](https://facebook.github.io/jest/)
++ [xo](https://github.com/xojs/xo)
++ [Enzyme](http://airbnb.io/enzyme/)
++ [propel](http://propelml.org/)
++ [rimraf](https://github.com/isaacs/rimraf)
++ [microjs](http://microjs.com/#)
++ [match-sorter](https://github.com/kentcdodds/match-sorter)
 
 ## Graph
 + [d3](https://github.com/d3/d3)
