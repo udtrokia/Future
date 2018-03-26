@@ -29,6 +29,7 @@
 + [reactotron](https://github.com/infinitered/reactotron)
 
 ## CSS
++ [figma](https://www.figma.com)
 + [react-reveal](https://www.react-reveal.com/)
 + [react-spring](https://github.com/drcmda/react-spring)
 + [downshift](https://github.com/paypal/downshift)
