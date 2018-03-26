@@ -2,6 +2,9 @@
 _Awesome projects_  
 
 + [RAP](https://github.com/thx/RAP)
++ [brain.js](http://brain.js.org)
++ [pyqtgraph](http://www.pyqtgraph.org)
++ [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 + [qr-transferfile](https://github.com/claudiodangelis/qr-filetransfer)
 + [intelligo](https://www.techstar.cloud/)
 + [ink](https://github.com/vadimdemedes/ink)

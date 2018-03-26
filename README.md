@@ -90,6 +90,8 @@
 + [yeoman](http://yeoman.io/)
 
 ## Toolkit
++ [pm2](http://pm2.io/)
++ [winston](http://github.com/winstonjs/winston)
 + [ava](https://github.com/avajs/ava)
 + [lerna](https://lernajs.io)
 + [diff2html](https://github.com/rtfpessoa/diff2html)
