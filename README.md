@@ -29,6 +29,9 @@
 + [reactotron](https://github.com/infinitered/reactotron)
 
 ## CSS
++ [framer](https://framer.com)
++ [wix](https://wix.com)
++ [slick](http://kenwheeler.github.io/slick/)
 + [figma](https://www.figma.com)
 + [react-reveal](https://www.react-reveal.com/)
 + [react-spring](https://github.com/drcmda/react-spring)
@@ -49,8 +52,6 @@
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)
 + [oni](http://onivim.io)
-+ 
-
 
 
 ## GraphQL
