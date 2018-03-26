@@ -90,6 +90,7 @@
 + [yeoman](http://yeoman.io/)
 
 ## Toolkit
++ [ava](https://github.com/avajs/ava)
 + [lerna](https://lernajs.io)
 + [diff2html](https://github.com/rtfpessoa/diff2html)
 + [pinchzoom](https://github.com/manuelstofer/pinchzoom)
