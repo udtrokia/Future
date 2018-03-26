@@ -8,7 +8,21 @@
 + [books](/books.md)
 + [node](/node.md)
 
-## React
+
+## Server
++ [netlify](https://www.netlify.com)
++ [surge](https://surge.sh/)
++ [heroku](https://github.com/heroku/heroku-buildpack-static)
++ [now](https://zeit.co/now)
+
+## CLI
++ [micro](https://zeit.co/blog/micro-8)
++ [oclif](https://oclif.io)
++ [umi](https://umijs.org/)
++ [next](https://zeit.co/blog/next5)
++ [adonis](http://adonisjs.com)
++ [hapi](http://hapijs.com)
++ [rawgit](https://github.com/rgrove/rawgit)
 + [gatsby](https://www.gatsbyjs.org)
 + [preact](https://preactjs.com)
 + [electron](https://electronjs.org)
@@ -36,17 +50,7 @@
 + [oni](http://onivim.io)
 + 
 
-## Server
-+ [netlify](https://www.netlify.com)
-+ [surge](https://surge.sh/)
-+ [heroku](https://github.com/heroku/heroku-buildpack-static)
-+ [now](https://zeit.co/now)
-+ [micro](https://zeit.co/blog/micro-8)
-+ [umi](https://umijs.org/)
-+ [next](https://zeit.co/blog/next5)
-+ [adonis](http://adonisjs.com)
-+ [hapi](http://hapijs.com)
-+ [rawgit](https://github.com/rgrove/rawgit)
+
 
 ## GraphQL
 + [graphql](http://graphql.org/)
