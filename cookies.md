@@ -2,6 +2,7 @@
 _Awesome projects_  
 
 + [RAP](https://github.com/thx/RAP)
++ [build-web-application](https://github.com/astaxie/build-web-application-with-golang)
 + [brain.js](http://brain.js.org)
 + [pyqtgraph](http://www.pyqtgraph.org)
 + [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
