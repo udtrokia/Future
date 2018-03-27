@@ -2,6 +2,7 @@
 # Books
 _books collection_  
 
++ [blockchain_guide](https://github.com/yeasy/blockchain_guide)
 + [awesome-no-js-web-frameworks](https://github.com/vindarel/awesome-no-js-web-frameworks)
 + [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 + [rust-in-action](https://github.com/barabadzhi/rust-in-action)
