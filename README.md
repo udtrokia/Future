@@ -28,6 +28,7 @@
 + [preact](https://preactjs.com)
 + [electron](https://electronjs.org)
 + [reactotron](https://github.com/infinitered/reactotron)
++ [rematch](https://github.com/rematch/rematch)
 
 ## CSS
 + [framer](https://framer.com)
@@ -47,6 +48,7 @@
 + [react-content-loader](https://github.com/danilowoz/react-content-loader)
 + [next](https://zeit.co/now)
 + [i18n](http://i18next.com/)
++ [js-lingui](https://github.com/lingui/js-lingui)
 
 ## Plugin
 + [react-contextual](https://github.com/drcmda/react-contextual)
@@ -104,7 +106,9 @@
 + [propel](http://propelml.org/)
 + [rimraf](https://github.com/isaacs/rimraf)
 + [microjs](http://microjs.com/#)
++ [log](https://github.com/joshavanier/log)
 + [match-sorter](https://github.com/kentcdodds/match-sorter)
++ [parrot.live](https://github.com/hugomd/parrot.live)
 
 ## Graph
 + [d3](https://github.com/d3/d3)

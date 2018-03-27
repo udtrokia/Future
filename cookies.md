@@ -16,3 +16,8 @@ _Awesome projects_
 + [husky](https://github.com/typicode/husky)
 + [Hue](https://github.com/UltimateHackers/hue)
 + [python-telegram-bot](https://python-telegram-bot.org)
++ [markdownlink](https://github.com/DavidAnson/markdownlint)
++ [issue-db](https://github.com/issue-db/issue-db)
++ [pupy](https://github.com/n1nj4sec/pupy)
++ [knowledge-reop](https://github.com/airbnb/knowledge-repo)
++ [deep-anpr](https://github.com/matthewearl/deep-anpr)
