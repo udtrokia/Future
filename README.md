@@ -1,5 +1,5 @@
 
-# Collection to Open-mind
+# Collection to Open-mind [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### Links
@@ -51,6 +51,27 @@
 + [js-lingui](https://github.com/lingui/js-lingui)
 + [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar)
 
+
+## Toolkit
++ [pm2](http://pm2.io/)
++ [winston](http://github.com/winstonjs/winston)
++ [ava](https://github.com/avajs/ava)
++ [lerna](https://lernajs.io)
++ [diff2html](https://github.com/rtfpessoa/diff2html)
++ [pinchzoom](https://github.com/manuelstofer/pinchzoom)
++ [prettier](https://prettier.io)
++ [TSLint](https://palantir.github.io/tslint/)
++ [Jest](https://facebook.github.io/jest/)
++ [xo](https://github.com/xojs/xo)
++ [Enzyme](http://airbnb.io/enzyme/)
++ [propel](http://propelml.org/)
++ [rimraf](https://github.com/isaacs/rimraf)
++ [microjs](http://microjs.com/#)
++ [log](https://github.com/joshavanier/log)
++ [match-sorter](https://github.com/kentcdodds/match-sorter)
++ [parrot.live](https://github.com/hugomd/parrot.live)
++ [systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader)
+
 ## Plugin
 + [react-contextual](https://github.com/drcmda/react-contextual)
 + [pell](https://jaredreich.com/pell)
@@ -92,24 +113,7 @@
 + [flow](https://github.com/facebook/flow)
 + [yeoman](http://yeoman.io/)
 
-## Toolkit
-+ [pm2](http://pm2.io/)
-+ [winston](http://github.com/winstonjs/winston)
-+ [ava](https://github.com/avajs/ava)
-+ [lerna](https://lernajs.io)
-+ [diff2html](https://github.com/rtfpessoa/diff2html)
-+ [pinchzoom](https://github.com/manuelstofer/pinchzoom)
-+ [prettier](https://prettier.io)
-+ [TSLint](https://palantir.github.io/tslint/)
-+ [Jest](https://facebook.github.io/jest/)
-+ [xo](https://github.com/xojs/xo)
-+ [Enzyme](http://airbnb.io/enzyme/)
-+ [propel](http://propelml.org/)
-+ [rimraf](https://github.com/isaacs/rimraf)
-+ [microjs](http://microjs.com/#)
-+ [log](https://github.com/joshavanier/log)
-+ [match-sorter](https://github.com/kentcdodds/match-sorter)
-+ [parrot.live](https://github.com/hugomd/parrot.live)
+
 
 ## Graph
 + [d3](https://github.com/d3/d3)

@@ -3,6 +3,7 @@
 _books collection_  
 
 + [weekly](https://github.com/dt-fe/weekly)
++ [awesome](https://github.com/sindresorhus/awesome)
 + [awesome cerebro](https://github.com/lubien/awesome-cerebro)
 + [blockchain_guide](https://github.com/yeasy/blockchain_guide)
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
