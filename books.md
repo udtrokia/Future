@@ -4,8 +4,9 @@ _books collection_
 
 + [weekly](https://github.com/dt-fe/weekly)
 + [blockchain_guide](https://github.com/yeasy/blockchain_guide)
-+ [awesome-no-js-web-frameworks](https://github.com/vindarel/awesome-no-js-web-frameworks)
++ [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 + [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
++ [awesome-no-js-web-frameworks](https://github.com/vindarel/awesome-no-js-web-frameworks)
 + [rust-in-action](https://github.com/barabadzhi/rust-in-action)
 + [jupyter](https://github.com/jupyter/jupyter)
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)

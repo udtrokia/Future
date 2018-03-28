@@ -49,6 +49,7 @@
 + [next](https://zeit.co/now)
 + [i18n](http://i18next.com/)
 + [js-lingui](https://github.com/lingui/js-lingui)
++ [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar)
 
 ## Plugin
 + [react-contextual](https://github.com/drcmda/react-contextual)
