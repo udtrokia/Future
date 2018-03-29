@@ -1,34 +1,55 @@
 ## Cookies
 _Awesome projects_  
 
+## Protocol
++ [sockette](https://github.com/lukeed/sockette)
+
+## crypto
 + [jshashes]()
 + [tweetnacl]()
-+ [TypeScript-React-Start](https://github.com/Microsoft/TypeScript-React-Starter)
-+ [interview-python](https://github.com/taizilongxu/interview_python)
-+ [gitflow](https://github.com/nvie/gitflow)
+
+## Tookit
 + [aiofiles](https://github.com/Tinche/aiofiles)
-+ [orgmanager](https://github.com/orgmanager/orgmanager)
-+ [apollo-link](https://www.apollographql.com/docs/link/)
-+ [typeorm](http://typeorm.io)
 + [click](https://github.com/databricks/click)
-+ [RAP](https://github.com/thx/RAP)
-+ [build-web-application](https://github.com/astaxie/build-web-application-with-golang)
-+ [brain.js](http://brain.js.org)
-+ [pyqtgraph](http://www.pyqtgraph.org)
-+ [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 + [qr-transferfile](https://github.com/claudiodangelis/qr-filetransfer)
-+ [intelligo](https://www.techstar.cloud/)
-+ [ink](https://github.com/vadimdemedes/ink)
-+ [probot](https://probot.github.io)
 + [hotkeys](https://github.com/jaywcjlove/hotkeys)
-+ [elasticsearch](https://www.elastic.co/products/elasticsearch)
-+ [all-contributors](https://github.com/kentcdodds/all-contributors)
-+ [react-transition-group](https://github.com/reactjs/react-transition-group)
-+ [husky](https://github.com/typicode/husky)
-+ [Hue](https://github.com/UltimateHackers/hue)
-+ [python-telegram-bot](https://python-telegram-bot.org)
 + [markdownlink](https://github.com/DavidAnson/markdownlint)
-+ [issue-db](https://github.com/issue-db/issue-db)
 + [pupy](https://github.com/n1nj4sec/pupy)
-+ [knowledge-reop](https://github.com/airbnb/knowledge-repo)
++ [ink](https://github.com/vadimdemedes/ink)
+
+## Deep learning
++ [brain.js](http://brain.js.org)
 + [deep-anpr](https://github.com/matthewearl/deep-anpr)
++ [intelligo](https://www.techstar.cloud/)
++ [probot](https://probot.github.io)
++ [python-telegram-bot](https://python-telegram-bot.org)
++ [Hue](https://github.com/UltimateHackers/hue)
+
+## Analyse
++ [pyqtgraph](http://www.pyqtgraph.org)
++ [pycallgraph](https://github.com/gak/pycallgraph)
++ [plotly](https://plot.ly)
+
+## transform
++ [typeorm](http://typeorm.io)
++ [Primus](http://primus.io)
++ [react-transition-group](https://github.com/reactjs/react-transition-group)
++ [TypeScript-React-Start](https://github.com/Microsoft/TypeScript-React-Starter)
+
+## API
++ [apollo-link](https://www.apollographql.com/docs/link/)
++ [RAP](https://github.com/thx/RAP)
+
+## git
++ [husky](https://github.com/typicode/husky)
++ [gitflow](https://github.com/nvie/gitflow)
++ [orgmanager](https://github.com/orgmanager/orgmanager)
++ [all-contributors](https://github.com/kentcdodds/all-contributors)
++ [issue-db](https://github.com/issue-db/issue-db)
+
+## web
++ [elasticsearch](https://www.elastic.co/products/elasticsearch)
+
+
+
+

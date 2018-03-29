@@ -1,5 +1,5 @@
 
-# Collection to Open-mind [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Collection about app-dev[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### Links
@@ -9,22 +9,39 @@
 + [node](/node.md)
 
 
-## Server
-+ [netlify](https://www.netlify.com)
-+ [surge](https://surge.sh/)
-+ [heroku](https://github.com/heroku/heroku-buildpack-static)
-+ [now](https://zeit.co/now)
 
 ## Framework
 + [mean](http://mean.io)
 + [vulcan](http://vulcanjs.org)
 
-## Platform
+## WorkFLow
++ [yogo](https://github.com/facebook/yoga)
++ [flow](https://github.com/facebook/flow)
++ [yeoman](http://yeoman.io/)
+
+## Platform && GraphQL
 + [beaker](https://beakerbrowser.com)
++ [prisma](https://github.com/graphcool/prisma)
 + [apollo](http://apollo.auto)
 + [relay](https://facebook.github.io/relay/)
 + [reaction](https://reactioncommerce.com)
 + [sentry](https://sentry.io/welcome/)
+
+## CMS
++ [realx](https://github.com/relax/relax )
++ [netlify-cms](https://www.netlifycms.org)
++ [aposttophe](https://github.com/apostrophecms/apostrophe)
+
+## Dashboard
++ [grafana](https://grafana.com)
++ [metabase](https://github.com/metabase/metabase)
++ [dashboards](http://keen.github.io/dashboards/)
+
+## Server
++ [netlify](https://www.netlify.com)
++ [surge](https://surge.sh/)
++ [heroku](https://github.com/heroku/heroku-buildpack-static)
++ [now](https://zeit.co/now)
 
 ## CLI
 + [Pri](https://github.com/prijs/pri)
@@ -64,7 +81,6 @@
 + [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 + [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
-
 ## Toolkit
 + [pm2](http://pm2.io/)
 + [winston](http://github.com/winstonjs/winston)
@@ -85,19 +101,6 @@
 + [parrot.live](https://github.com/hugomd/parrot.live)
 + [systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader)
 
-## Plugin
-+ [react-contextual](https://github.com/drcmda/react-contextual)
-+ [pell](https://jaredreich.com/pell)
-+ [Cleave](http://nosir.github.io/cleave.js)
-+ [oni](http://onivim.io)
-
-
-## GraphQL
-+ [graphql](http://graphql.org/)
-+ [how to graphql](https://www.howtographql.com)
-+ [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
-+ [prisma](https://github.com/graphcool/prisma)
-
 ## Storage
 + [docker](https://www.docker.com)
 + [kubernetes](https://kubernetes.io)
@@ -106,38 +109,16 @@
 + [minio](https://minio.io)
 + [rclone](https://rclone.org)
 
-
-
-## CMS
-+ [realx](https://github.com/relax/relax )
-+ [netlify-cms](https://www.netlifycms.org)
-+ [aposttophe](https://github.com/apostrophecms/apostrophe)
-
-## WorkFLow
-+ [yogo](https://github.com/facebook/yoga)
-+ [flow](https://github.com/facebook/flow)
-+ [yeoman](http://yeoman.io/)
-
-
-
 ## Graph
 + [d3](https://github.com/d3/d3)
 + [GraphicsJS](http://www.graphicsjs.org/)
-+ [victory](http://formidable.com/open-source/victory/)
 + [rough](http://roughjs.com)
-+ [plotly](https://plot.ly)
 + [echarts](http://echarts.baidu.com)
 + [rechatrs](http://recharts.org)
 + [tui-chart](https://github.com/nhnent/tui.chart)
-+ [pycallgraph](https://github.com/gak/pycallgraph)
 
-## Dashboard
-+ [grafana](https://grafana.com)
-+ [metabase](https://github.com/metabase/metabase)
-+ [dashboards](http://keen.github.io/dashboards/)
-
-## Protocol
-+ [sockette](https://github.com/lukeed/sockette)
-
-## Transformer
-+ [Primus](http://primus.io)
+## Plugin
++ [react-contextual](https://github.com/drcmda/react-contextual)
++ [pell](https://jaredreich.com/pell)
++ [Cleave](http://nosir.github.io/cleave.js)
++ [oni](http://onivim.io)
