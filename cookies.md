@@ -1,6 +1,10 @@
 ## Cookies
 _Awesome projects_  
 
++ [jshashes]()
++ [tweetnacl]()
++ [interview-python](https://github.com/taizilongxu/interview_python)
++ [gitflow](https://github.com/nvie/gitflow)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [orgmanager](https://github.com/orgmanager/orgmanager)
 + [apollo-link](https://www.apollographql.com/docs/link/)

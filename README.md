@@ -50,6 +50,8 @@
 + [i18n](http://i18next.com/)
 + [js-lingui](https://github.com/lingui/js-lingui)
 + [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar)
++ [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
++ [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
 
 ## Toolkit
@@ -95,6 +97,7 @@
 ## Storage
 + [docker](https://www.docker.com)
 + [kubernetes](https://kubernetes.io)
++ [localstack](https://localstack.cloud)
 + [gitkube](https://gitkube.sh)
 + [minio](https://minio.io)
 + [rclone](https://rclone.org)

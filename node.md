@@ -3,6 +3,7 @@ _Node Developer_
 
 + [content-type](content-type)
 + [raw-body](https://github.com/stream-utils/raw-body)
++ [crypto-js](https://github.com/brix/crypto-js)
 + [is-stream](https://github.com/sindresorhus/is-stream)
 + [fkill-cli](https://github.com/sindresorhus/fkill-cli)
 + [promise-polyfill](https://github.com/taylorhakes/promise-polyfill)
