@@ -15,6 +15,17 @@
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
 + [now](https://zeit.co/now)
 
+## Framework
++ [mean](http://mean.io)
++ [vulcan](http://vulcanjs.org)
+
+## Platform
++ [beaker](https://beakerbrowser.com)
++ [apollo](http://apollo.auto)
++ [relay](https://facebook.github.io/relay/)
++ [reaction](https://reactioncommerce.com)
++ [sentry](https://sentry.io/welcome/)
+
 ## CLI
 + [Pri](https://github.com/prijs/pri)
 + [micro](https://zeit.co/blog/micro-8)
@@ -87,13 +98,6 @@
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 + [prisma](https://github.com/graphcool/prisma)
 
-## Platform
-+ [beaker](https://beakerbrowser.com)
-+ [apollo](http://apollo.auto)
-+ [relay](https://facebook.github.io/relay/)
-+ [reaction](https://reactioncommerce.com)
-+ [sentry](https://sentry.io/welcome/)
-
 ## Storage
 + [docker](https://www.docker.com)
 + [kubernetes](https://kubernetes.io)
@@ -102,9 +106,7 @@
 + [minio](https://minio.io)
 + [rclone](https://rclone.org)
 
-## Framework
-+ [mean](http://mean.io)
-+ [vulcan](http://vulcanjs.org)
+
 
 ## CMS
 + [realx](https://github.com/relax/relax )

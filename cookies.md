@@ -3,6 +3,7 @@ _Awesome projects_
 
 + [jshashes]()
 + [tweetnacl]()
++ [TypeScript-React-Start](https://github.com/Microsoft/TypeScript-React-Starter)
 + [interview-python](https://github.com/taizilongxu/interview_python)
 + [gitflow](https://github.com/nvie/gitflow)
 + [aiofiles](https://github.com/Tinche/aiofiles)
