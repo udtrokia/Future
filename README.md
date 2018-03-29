@@ -1,5 +1,5 @@
 
-# Collection about app-dev[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Collection about app-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### Links
@@ -9,17 +9,16 @@
 + [node](/node.md)
 
 
-
-## Framework
+### Framework
 + [mean](http://mean.io)
 + [vulcan](http://vulcanjs.org)
 
-## WorkFLow
+### WorkFLow
 + [yogo](https://github.com/facebook/yoga)
 + [flow](https://github.com/facebook/flow)
 + [yeoman](http://yeoman.io/)
 
-## Platform && GraphQL
+### Platform && GraphQL
 + [beaker](https://beakerbrowser.com)
 + [prisma](https://github.com/graphcool/prisma)
 + [apollo](http://apollo.auto)
@@ -27,23 +26,23 @@
 + [reaction](https://reactioncommerce.com)
 + [sentry](https://sentry.io/welcome/)
 
-## CMS
+### CMS
 + [realx](https://github.com/relax/relax )
 + [netlify-cms](https://www.netlifycms.org)
 + [aposttophe](https://github.com/apostrophecms/apostrophe)
 
-## Dashboard
+### Dashboard
 + [grafana](https://grafana.com)
 + [metabase](https://github.com/metabase/metabase)
 + [dashboards](http://keen.github.io/dashboards/)
 
-## Server
+### Server
 + [netlify](https://www.netlify.com)
 + [surge](https://surge.sh/)
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
 + [now](https://zeit.co/now)
 
-## CLI
+### CLI
 + [Pri](https://github.com/prijs/pri)
 + [micro](https://zeit.co/blog/micro-8)
 + [oclif](https://oclif.io)
@@ -58,7 +57,7 @@
 + [reactotron](https://github.com/infinitered/reactotron)
 + [rematch](https://github.com/rematch/rematch)
 
-## CSS
+### CSS
 + [framer](https://framer.com)
 + [wix](https://wix.com)
 + [slick](http://kenwheeler.github.io/slick/)
@@ -81,7 +80,7 @@
 + [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 + [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
-## Toolkit
+### Toolkit
 + [pm2](http://pm2.io/)
 + [winston](http://github.com/winstonjs/winston)
 + [ava](https://github.com/avajs/ava)
@@ -101,7 +100,7 @@
 + [parrot.live](https://github.com/hugomd/parrot.live)
 + [systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader)
 
-## Storage
+### Storage
 + [docker](https://www.docker.com)
 + [kubernetes](https://kubernetes.io)
 + [localstack](https://localstack.cloud)
@@ -109,7 +108,7 @@
 + [minio](https://minio.io)
 + [rclone](https://rclone.org)
 
-## Graph
+### Graph
 + [d3](https://github.com/d3/d3)
 + [GraphicsJS](http://www.graphicsjs.org/)
 + [rough](http://roughjs.com)
@@ -117,7 +116,7 @@
 + [rechatrs](http://recharts.org)
 + [tui-chart](https://github.com/nhnent/tui.chart)
 
-## Plugin
+### Plugin
 + [react-contextual](https://github.com/drcmda/react-contextual)
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)
