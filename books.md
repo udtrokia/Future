@@ -3,6 +3,7 @@
 _books collection_  
 
 + [weekly](https://github.com/dt-fe/weekly)
++ [mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)
 + [awesome](https://github.com/sindresorhus/awesome)
 + [awesome-docker](https://awesome-docker.netlify.com/)
 + [awesome-osint](https://github.com/jivoi/awesome-osint)
