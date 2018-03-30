@@ -3,7 +3,6 @@ _Awesome projects_
 
 
 ### Tookit
-+ [pluto](https://github.com/go-pluto/pluto)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [tqdm](https://github.com/tqdm/tqdm)
 + [image-go](https://github.com/golang/image)
@@ -43,6 +42,7 @@ _Awesome projects_
 ### Server
 + [ipfspics-server](https://github.com/ipfspics/ipfspics-server)
 + [imageserver](https://github.com/pierrre/imageserver)
++ [pluto](https://github.com/go-pluto/pluto)
 
 ### API
 + [apollo-link](https://www.apollographql.com/docs/link/)

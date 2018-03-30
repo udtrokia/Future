@@ -1,6 +1,7 @@
 # Node
 _Node Developer_
 
++ [async](https://github.com/caolan/async)
 + [node-hole](https://github.com/piglovesyou/node-hole)
 + [content-type](content-type)
 + [raw-body](https://github.com/stream-utils/raw-body)
