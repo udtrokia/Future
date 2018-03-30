@@ -3,7 +3,6 @@
 
 
 ### Links
-+ [keywords](/keywords.md)
 + [cookies](/cookies.md)
 + [books](/books.md)
 + [node](/node.md)
