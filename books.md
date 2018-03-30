@@ -14,6 +14,8 @@ _books collection_
 + [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 + [knowledge-reop](https://github.com/airbnb/knowledge-repo)
 + [github-cheat-sheet](http://git.io/sheet)
++ [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
++ 
 
 ### grammar
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)

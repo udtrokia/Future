@@ -3,6 +3,7 @@ _Awesome projects_
 
 
 ### Tookit
++ [pluto](https://github.com/go-pluto/pluto)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [tqdm](https://github.com/tqdm/tqdm)
 + [image-go](https://github.com/golang/image)
@@ -14,6 +15,9 @@ _Awesome projects_
 + [pupy](https://github.com/n1nj4sec/pupy)
 + [ink](https://github.com/vadimdemedes/ink)
 + [is](https://github.com/sindresorhus/is)
++ [gitleaks](https://github.com/zricethezav/gitleaks)
++ [static](https://github.com/staticfile/static)
++ [ggez](https://github.com/ggez/ggez)
 
 ### Deep learning
 + [brain.js](http://brain.js.org)
@@ -34,6 +38,7 @@ _Awesome projects_
 + [Primus](http://primus.io)
 + [react-transition-group](https://github.com/reactjs/react-transition-group)
 + [TypeScript-React-Start](https://github.com/Microsoft/TypeScript-React-Starter)
++ [gluon](https://github.com/gluon-lang/gluon)
 
 ### Server
 + [ipfspics-server](https://github.com/ipfspics/ipfspics-server)
