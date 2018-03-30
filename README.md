@@ -59,6 +59,7 @@
 
 ### CSS
 + [framer](https://framer.com)
++ [popmotion](https://github.com/Popmotion/popmotion)
 + [wix](https://wix.com)
 + [slick](http://kenwheeler.github.io/slick/)
 + [figma](https://www.figma.com)
