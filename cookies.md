@@ -17,6 +17,9 @@ _Awesome projects_
 + [gitleaks](https://github.com/zricethezav/gitleaks)
 + [static](https://github.com/staticfile/static)
 + [ggez](https://github.com/ggez/ggez)
++ [markup-it](https://github.com/GitbookIO/markup-it)
++ [aiomysql](https://github.com/aio-libs/aiomysql)
++ [pystan](https://github.com/stan-dev/pystan)
 
 ### Deep learning
 + [brain.js](http://brain.js.org)
@@ -43,6 +46,7 @@ _Awesome projects_
 + [ipfspics-server](https://github.com/ipfspics/ipfspics-server)
 + [imageserver](https://github.com/pierrre/imageserver)
 + [pluto](https://github.com/go-pluto/pluto)
++ [ruby_server_timing](https://github.com/scoutapp/ruby_server_timing)
 
 ### API
 + [apollo-link](https://www.apollographql.com/docs/link/)
