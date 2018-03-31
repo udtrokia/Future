@@ -45,6 +45,7 @@
 + [now](https://zeit.co/now)
 
 ### CLI
++ [notadd](https://github.com/notadd/notadd)
 + [Pri](https://github.com/prijs/pri)
 + [micro](https://zeit.co/blog/micro-8)
 + [oclif](https://oclif.io)
@@ -62,6 +63,9 @@
 + [cargo-web](https://github.com/koute/cargo-web)
 
 ### CSS
++ [storybook](https://github.com/storybooks/storybook)
++ [react-native-material-ui](https://github.com/xotahal/react-native-material-ui)
++ [clap-rs](https://github.com/kbknapp/clap-rs)
 + [viron](https://github.com/cam-inc/viron)
 + [ripple](https://github.com/holloway/ripple)
 + [framer](https://framer.com)
@@ -128,3 +132,4 @@
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)
 + [oni](http://onivim.io)
++ [react-waypoint](https://github.com/brigade/react-waypoint)

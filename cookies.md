@@ -20,8 +20,16 @@ _Awesome projects_
 + [markup-it](https://github.com/GitbookIO/markup-it)
 + [aiomysql](https://github.com/aio-libs/aiomysql)
 + [pystan](https://github.com/stan-dev/pystan)
++ [awesome-shell](https://github.com/alebcay/awesome-shell)
++ [speed-test](https://github.com/sindresorhus/speed-test)
++ [Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
++ [goql](https://github.com/fzerorubigd/goql)
++ [tacotron](https://github.com/keithito/tacotron)
++ [knex](https://github.com/tgriesser/knex)
++ [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 
 ### Deep learning
++ [tfjs](https://github.com/tensorflow/tfjs)
 + [brain.js](http://brain.js.org)
 + [deep-anpr](https://github.com/matthewearl/deep-anpr)
 + [intelligo](https://www.techstar.cloud/)
@@ -36,6 +44,7 @@ _Awesome projects_
 + [plotly](https://plot.ly)
 
 ### Transformer
++ [clasp](https://github.com/clasp-developers/clasp)
 + [typeorm](http://typeorm.io)
 + [Primus](http://primus.io)
 + [react-transition-group](https://github.com/reactjs/react-transition-group)

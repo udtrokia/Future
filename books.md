@@ -26,11 +26,15 @@ _books collection_
 + [rust-in-action](https://github.com/barabadzhi/rust-in-action)
 + [knowledge](https://github.com/gocn/knowledge)
 + [cosmos](https://github.com/FelisCatus/SwitchyOmega)
++ [mlton](https://github.com/MLton/mlton)
 
 ### GrapQL
 + [graphql](http://graphql.org/)
 + [how to graphql](https://www.howtographql.com)
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+
+### Deep learning
++ [stats337](https://github.com/hadley/stats337)
 
 ### web
 + [victory](http://formidable.com/open-source/victory/)
