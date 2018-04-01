@@ -3,6 +3,7 @@ _Awesome projects_
 
 
 ### Tookit
++ [setImmediate](https://github.com/YuzuJS/setImmediate)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [tqdm](https://github.com/tqdm/tqdm)
 + [image-go](https://github.com/golang/image)
@@ -28,6 +29,11 @@ _Awesome projects_
 + [knex](https://github.com/tgriesser/knex)
 + [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 
+
+### Distributed
++ [tikv](https://github.com/pingcap/tikv)
++ [tidb](https://github.com/pingcap/tidb)
+
 ### Deep learning
 + [tfjs](https://github.com/tensorflow/tfjs)
 + [brain.js](http://brain.js.org)
@@ -36,6 +42,7 @@ _Awesome projects_
 + [probot](https://probot.github.io)
 + [python-telegram-bot](https://python-telegram-bot.org)
 + [Hue](https://github.com/UltimateHackers/hue)
++ [open-ocr](https://github.com/tleyden/open-ocr)
 
 ### Analyse
 + [matomo](https://matomo.org/)
@@ -62,6 +69,7 @@ _Awesome projects_
 + [RAP](https://github.com/thx/RAP)
 
 ### Protocol
++ [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
 + [sockette](https://github.com/lukeed/sockette)
 + [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 

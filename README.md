@@ -3,7 +3,8 @@
 
 
 ### Product
-+ [reddit](https://github.com/reddit-archive/reddit1.0)
++ [reddti](https://github.com/reddit-archive/reddit1.0)
++ [react-kanban](https://github.com/yogaboll/react-kanban)
 
 ### Links
 + [cookies](/cookies.md)
@@ -45,6 +46,7 @@
 + [now](https://zeit.co/now)
 
 ### CLI
++ [graphiql-app](https://github.com/skevy/graphiql-app)
 + [notadd](https://github.com/notadd/notadd)
 + [Pri](https://github.com/prijs/pri)
 + [micro](https://zeit.co/blog/micro-8)
@@ -63,6 +65,7 @@
 + [cargo-web](https://github.com/koute/cargo-web)
 
 ### CSS
++ [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 + [storybook](https://github.com/storybooks/storybook)
 + [react-native-material-ui](https://github.com/xotahal/react-native-material-ui)
 + [clap-rs](https://github.com/kbknapp/clap-rs)
@@ -95,12 +98,14 @@
 + [pm2](http://pm2.io/)
 + [winston](http://github.com/winstonjs/winston)
 + [ava](https://github.com/avajs/ava)
++ [luna](https://github.com/rvpanoz/luna)
 + [lerna](https://lernajs.io)
 + [diff2html](https://github.com/rtfpessoa/diff2html)
 + [pinchzoom](https://github.com/manuelstofer/pinchzoom)
 + [prettier](https://prettier.io)
 + [TSLint](https://palantir.github.io/tslint/)
 + [Jest](https://facebook.github.io/jest/)
++ [snapshot-diff](https://github.com/jest-community/snapshot-diff)
 + [xo](https://github.com/xojs/xo)
 + [Enzyme](http://airbnb.io/enzyme/)
 + [propel](http://propelml.org/)

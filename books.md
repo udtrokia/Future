@@ -10,6 +10,7 @@ _books collection_
 + [awesome](https://github.com/sindresorhus/awesome)
 + [awesome-osint](https://github.com/jivoi/awesome-osint)
 + [hack-an-engineer](https://github.com/nemild/hack-an-engineer)
++ [gitkube](https://github.com/hasura/gitkube)
 + [awesome-devsecops](http://devsecops.org)
 + [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 + [knowledge-reop](https://github.com/airbnb/knowledge-repo)
@@ -37,6 +38,7 @@ _books collection_
 + [stats337](https://github.com/hadley/stats337)
 
 ### web
++ [micro-frontend](https://github.com/phodal/micro-frontend)
 + [victory](http://formidable.com/open-source/victory/)
 + [mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)
 + [awesome-no-js-web-frameworks](https://github.com/vindarel/awesome-no-js-web-frameworks)
