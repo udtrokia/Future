@@ -35,6 +35,7 @@ _books collection_
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 
 ### Deep learning
++ [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 + [stats337](https://github.com/hadley/stats337)
 
 ### web

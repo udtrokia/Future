@@ -11,7 +11,6 @@
 + [books](/books.md)
 + [node](/node.md)
 
-
 ### Framework
 + [mean](http://mean.io)
 + [vulcan](http://vulcanjs.org)
@@ -97,6 +96,7 @@
 ### Toolkit
 + [pm2](http://pm2.io/)
 + [winston](http://github.com/winstonjs/winston)
++ [pact-js](https://github.com/pact-foundation/pact-js)
 + [ava](https://github.com/avajs/ava)
 + [luna](https://github.com/rvpanoz/luna)
 + [lerna](https://lernajs.io)
