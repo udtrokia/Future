@@ -3,6 +3,7 @@ _Node Developer_
 
 + [async](https://github.com/caolan/async)
 + [node-hole](https://github.com/piglovesyou/node-hole)
++ [node-schedule](https://github.com/node-schedule/node-schedule)
 + [content-type](content-type)
 + [raw-body](https://github.com/stream-utils/raw-body)
 + [crypto-js](https://github.com/brix/crypto-js)

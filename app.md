@@ -37,6 +37,7 @@
 + [grafana](https://grafana.com)
 + [metabase](https://github.com/metabase/metabase)
 + [dashboards](http://keen.github.io/dashboards/)
++ [webdash](https://github.com/jadjoubran/webdash)
 
 ### Server
 + [netlify](https://www.netlify.com)
@@ -45,6 +46,7 @@
 + [now](https://zeit.co/now)
 
 ### CLI
++ [heimdall](http://gojek.tech)
 + [graphiql-app](https://github.com/skevy/graphiql-app)
 + [notadd](https://github.com/notadd/notadd)
 + [Pri](https://github.com/prijs/pri)
@@ -94,7 +96,9 @@
 + [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
 ### Toolkit
++ [electrify](https://github.com/arboleya/electrify)
 + [pm2](http://pm2.io/)
++ [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 + [winston](http://github.com/winstonjs/winston)
 + [pact-js](https://github.com/pact-foundation/pact-js)
 + [ava](https://github.com/avajs/ava)

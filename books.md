@@ -14,6 +14,7 @@ _books collection_
 + [awesome-devsecops](http://devsecops.org)
 + [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 + [knowledge-reop](https://github.com/airbnb/knowledge-repo)
++ [easings.net](https://github.com/ai/easings.net)
 + [github-cheat-sheet](http://git.io/sheet)
 + [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 + [post-mortems](https://github.com/danluu/post-mortems)

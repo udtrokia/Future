@@ -3,7 +3,12 @@ _Awesome projects_
 
 
 ### Tookit
++ GoLang
++ Rust
+  + [naglfar](https://github.com/maekawatoshiki/naglfar)
++ [comcast](https://github.com/tylertreat/comcast)
 + [setImmediate](https://github.com/YuzuJS/setImmediate)
++ [captcha](https://github.com/dchest/captcha)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [tqdm](https://github.com/tqdm/tqdm)
 + [image-go](https://github.com/golang/image)
@@ -35,7 +40,9 @@ _Awesome projects_
 + [tidb](https://github.com/pingcap/tidb)
 
 ### Deep learning
++ [caffe64](https://github.com/dfouhey/caffe64)
 + [tfjs](https://github.com/tensorflow/tfjs)
++ [person-blocker](https://github.com/minimaxir/person-blocker)
 + [brain.js](http://brain.js.org)
 + [deep-anpr](https://github.com/matthewearl/deep-anpr)
 + [intelligo](https://www.techstar.cloud/)
