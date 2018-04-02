@@ -5,7 +5,7 @@ _Awesome projects_
 ### Tookit
 + GoLang
 + Rust
-  + [naglfar](https://github.com/maekawatoshiki/naglfar)
++ [naglfar](https://github.com/maekawatoshiki/naglfar)
 + [comcast](https://github.com/tylertreat/comcast)
 + [setImmediate](https://github.com/YuzuJS/setImmediate)
 + [captcha](https://github.com/dchest/captcha)
@@ -33,7 +33,8 @@ _Awesome projects_
 + [tacotron](https://github.com/keithito/tacotron)
 + [knex](https://github.com/tgriesser/knex)
 + [awesome-bash](https://github.com/awesome-lists/awesome-bash)
-
++ [ijkplayer](https://github.com/Bilibili/ijkplayer)
++ [OctoLinker](https://github.com/OctoLinker/OctoLinker)
 
 ### Distributed
 + [tikv](https://github.com/pingcap/tikv)
@@ -52,6 +53,7 @@ _Awesome projects_
 + [open-ocr](https://github.com/tleyden/open-ocr)
 
 ### Analyse
++ [incubator-superset](https://github.com/apache/incubator-superset)
 + [matomo](https://matomo.org/)
 + [pyqtgraph](http://www.pyqtgraph.org)
 + [pycallgraph](https://github.com/gak/pycallgraph)

@@ -16,6 +16,7 @@ _books collection_
 + [knowledge-reop](https://github.com/airbnb/knowledge-repo)
 + [easings.net](https://github.com/ai/easings.net)
 + [github-cheat-sheet](http://git.io/sheet)
++ [may](https://github.com/Xudong-Huang/may)
 + [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 + [post-mortems](https://github.com/danluu/post-mortems)
 + [manim](https://github.com/3b1b/manim)
