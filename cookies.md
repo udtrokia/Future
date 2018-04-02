@@ -79,6 +79,7 @@ _Awesome projects_
 + [RAP](https://github.com/thx/RAP)
 
 ### Protocol
++ [rpcx](https://github.com/smallnest/rpcx)
 + [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
 + [sockette](https://github.com/lukeed/sockette)
 + [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
