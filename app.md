@@ -132,6 +132,7 @@
 + [rclone](https://rclone.org)
 
 ### Graph
++ [f2](https://github.com/antvis/f2)
 + [d3](https://github.com/d3/d3)
 + [GraphicsJS](http://www.graphicsjs.org/)
 + [rough](http://roughjs.com)

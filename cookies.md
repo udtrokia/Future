@@ -35,6 +35,7 @@ _Awesome projects_
 + [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 + [ijkplayer](https://github.com/Bilibili/ijkplayer)
 + [OctoLinker](https://github.com/OctoLinker/OctoLinker)
++ [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer)
 
 ### Distributed
 + [tikv](https://github.com/pingcap/tikv)
