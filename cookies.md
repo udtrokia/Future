@@ -1,10 +1,14 @@
 ### Cookies
 _Awesome projects_  
 
-
 ### Tookit
 + GoLang
++ C++
+  + [inpaint](https://github.com/cheind/inpaint)
 + Rust
++ Javascript
+  + [spectrum](https://github.com/withspectrum/spectrum)
+  + [merge-images](https://github.com/lukechilds/merge-images)
 + [naglfar](https://github.com/maekawatoshiki/naglfar)
 + [comcast](https://github.com/tylertreat/comcast)
 + [setImmediate](https://github.com/YuzuJS/setImmediate)
@@ -52,8 +56,11 @@ _Awesome projects_
 + [python-telegram-bot](https://python-telegram-bot.org)
 + [Hue](https://github.com/UltimateHackers/hue)
 + [open-ocr](https://github.com/tleyden/open-ocr)
++ [enas](https://github.com/melodyguan/enas)
++ []
 
 ### Analyse
++ [r-source](https://github.com/wch/r-source)
 + [incubator-superset](https://github.com/apache/incubator-superset)
 + [matomo](https://matomo.org/)
 + [pyqtgraph](http://www.pyqtgraph.org)
@@ -61,6 +68,7 @@ _Awesome projects_
 + [plotly](https://plot.ly)
 
 ### Transformer
++ [observer-util](https://github.com/nx-js/observer-util)
 + [clasp](https://github.com/clasp-developers/clasp)
 + [typeorm](http://typeorm.io)
 + [Primus](http://primus.io)
@@ -79,6 +87,7 @@ _Awesome projects_
 + [RAP](https://github.com/thx/RAP)
 
 ### Protocol
++ [grpc-go](https://github.com/grpc/grpc-go)
 + [rpcx](https://github.com/smallnest/rpcx)
 + [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
 + [sockette](https://github.com/lukeed/sockette)
@@ -98,6 +107,6 @@ _Awesome projects_
 ### web
 + [elasticsearch](https://www.elastic.co/products/elasticsearch)
 
-
-
-
+### Engine
++ [v8](https://github.com/v8/v8)
++ [flamebearer](https://github.com/mapbox/flamebearer)

@@ -1,6 +1,7 @@
 # Node
 _Node Developer_
 
++ [node-source-map-support](https://github.com/evanw/node-source-map-support)
 + [async](https://github.com/caolan/async)
 + [node-hole](https://github.com/piglovesyou/node-hole)
 + [node-schedule](https://github.com/node-schedule/node-schedule)

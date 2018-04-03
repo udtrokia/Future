@@ -1,4 +1,3 @@
-
 # Books
 _books collection_  
 
@@ -7,6 +6,7 @@ _books collection_
 
 ### guide
 + [jupyter](https://github.com/jupyter/jupyter)
++ [awesome-go](https://github.com/avelino/awesome-go)
 + [awesome](https://github.com/sindresorhus/awesome)
 + [awesome-osint](https://github.com/jivoi/awesome-osint)
 + [hack-an-engineer](https://github.com/nemild/hack-an-engineer)
