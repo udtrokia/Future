@@ -4,7 +4,8 @@
 ### Product
 
 + [reddti](https://github.com/reddit-archive/reddit1.0)
-+ [react-kanban](https://github.com/yogaboll/react-kanban)
++ [react-kanban](https://github.com/yogaboll/react-kanban) 
++ [gocraft](https://github.com/icexin/gocraft)
 
 ### Links
 + [cookies](/cookies.md)
@@ -44,8 +45,11 @@
 + [surge](https://surge.sh/)
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
 + [now](https://zeit.co/now)
++ Rust
+  + [rust-webapp-starter](https://github.com/OUISRC/Rust-webapp-starter)
 
 ### CLI
++ [ipt](https://github.com/ruyadorno/ipt)
 + [heimdall](http://gojek.tech)
 + [graphiql-app](https://github.com/skevy/graphiql-app)
 + [notadd](https://github.com/notadd/notadd)
@@ -128,6 +132,7 @@
 + [parrot.live](https://github.com/hugomd/parrot.live)
 + [systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader)
 + [consola](https://github.com/nuxt/consola)
++ [universe-starter-agent](https://github.com/openai/universe-starter-agent)
 
 ### Storage
 + [docker](https://www.docker.com)
@@ -147,8 +152,11 @@
 + [tui-chart](https://github.com/nhnent/tui.chart)
 
 ### Plugin
++ [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions)
 + [react-contextual](https://github.com/drcmda/react-contextual)
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)
 + [oni](http://onivim.io)
 + [react-waypoint](https://github.com/brigade/react-waypoint)
++ wxapp
+  + [wux](https://github.com/skyvow/wux)

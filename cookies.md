@@ -3,9 +3,15 @@ _Awesome projects_
 
 ### Tookit
 + GoLang
+  + [go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf)
+  + [image-go](https://github.com/golang/image)
+  + [gpio](https://github.com/brian-armstrong/gpio)
+  + [go-rpio](https://github.com/stianeikeland/go-rpio)
+  + [rubber-docker](https://github.com/Fewbytes/rubber-docker)
 + C++
   + [inpaint](https://github.com/cheind/inpaint)
 + Rust
+  + [image-rust](https://github.com/PistonDevelopers/image)
 + Javascript
   + [spectrum](https://github.com/withspectrum/spectrum)
   + [merge-images](https://github.com/lukechilds/merge-images)
@@ -15,8 +21,6 @@ _Awesome projects_
 + [captcha](https://github.com/dchest/captcha)
 + [aiofiles](https://github.com/Tinche/aiofiles)
 + [tqdm](https://github.com/tqdm/tqdm)
-+ [image-go](https://github.com/golang/image)
-+ [image-rust](https://github.com/PistonDevelopers/image)
 + [click](https://github.com/databricks/click)
 + [qr-transferfile](https://github.com/claudiodangelis/qr-filetransfer)
 + [hotkeys](https://github.com/jaywcjlove/hotkeys)
@@ -57,9 +61,10 @@ _Awesome projects_
 + [Hue](https://github.com/UltimateHackers/hue)
 + [open-ocr](https://github.com/tleyden/open-ocr)
 + [enas](https://github.com/melodyguan/enas)
-+ []
++ [datalab](https://github.com/googledatalab/datalab)
 
 ### Analyse
++ [arvados](https://arvados.org)
 + [r-source](https://github.com/wch/r-source)
 + [incubator-superset](https://github.com/apache/incubator-superset)
 + [matomo](https://matomo.org/)

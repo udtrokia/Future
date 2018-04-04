@@ -6,9 +6,12 @@ _books collection_
 
 ### guide
 + [jupyter](https://github.com/jupyter/jupyter)
++ [gophers](https://github.com/ashleymcnamara/gophers)
 + [awesome-go](https://github.com/avelino/awesome-go)
 + [awesome](https://github.com/sindresorhus/awesome)
 + [awesome-osint](https://github.com/jivoi/awesome-osint)
++ [wxapp666](https://github.com/xiaobei666/weixin-xiaochengxu666-info)
++ [iCSS](https://github.com/chokcoco/iCSS)
 + [hack-an-engineer](https://github.com/nemild/hack-an-engineer)
 + [gitkube](https://github.com/hasura/gitkube)
 + [awesome-devsecops](http://devsecops.org)
@@ -20,6 +23,10 @@ _books collection_
 + [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 + [post-mortems](https://github.com/danluu/post-mortems)
 + [manim](https://github.com/3b1b/manim)
++ C++
+  + [leetcode](https://github.com/kamyu104/LeetCode)
++ javascript
+  + [proposals](https://github.com/tc39/proposals)
 
 ### grammar
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
