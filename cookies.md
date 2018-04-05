@@ -21,6 +21,7 @@ _Awesome projects_
   + [v-dom](https://github.com/cyan33/v-dom)
   + [npm-on-ipfs](https://github.com/ipfs-shipyard/npm-on-ipfs)
   + [python-shell](https://github.com/extrabacon/python-shell)
+  + [chalk](https://github.com/chalk/chalk)
 + [naglfar](https://github.com/maekawatoshiki/naglfar)
 + [comcast](https://github.com/tylertreat/comcast)
 + [setImmediate](https://github.com/YuzuJS/setImmediate)
