@@ -70,6 +70,8 @@
 + [cargo-web](https://github.com/koute/cargo-web)
 
 ### CSS
++ [material-swagger-ui](https://github.com/legendecas/material-swagger-ui)
++ [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 + [tabler](https://github.com/tabler/tabler)
 + [polished](https://github.com/styled-components/polished)
 + [bundlephobia](https://github.com/pastelsky/bundlephobia)
@@ -86,6 +88,7 @@
 + [wix](https://wix.com)
 + [slick](http://kenwheeler.github.io/slick/)
 + [figma](https://www.figma.com)
++ [zero-width-detection](https://github.com/umpox/zero-width-detection)
 + [react-reveal](https://www.react-reveal.com/)
 + [react-spring](https://github.com/drcmda/react-spring)
 + [downshift](https://github.com/paypal/downshift)
@@ -105,6 +108,8 @@
 + [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
 ### Toolkit
++ [slate](https://github.com/ianstormtaylor/slate)
++ [appollo-link-firebase](https://github.com/Canner/apollo-link-firebase)
 + [astexplorer](https://github.com/fkling/astexplorer)
 + [duckrails](https://github.com/iridakos/duckrails)
 + [govern](https://github.com/jamesknelson/govern)
@@ -133,6 +138,11 @@
 + [systemjs-hot-reloader](https://github.com/alexisvincent/systemjs-hot-reloader)
 + [consola](https://github.com/nuxt/consola)
 + [universe-starter-agent](https://github.com/openai/universe-starter-agent)
++ [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)
++ webpack
+  + [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
++ React
+  + [react-sommth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 
 ### Storage
 + [docker](https://www.docker.com)

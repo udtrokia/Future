@@ -2,6 +2,8 @@
 _Awesome projects_  
 
 ### Tookit
++ Lisp
+  + [biochat](https://github.com/Bohdan-Khomtchouk/Biochat)
 + GoLang
   + [go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf)
   + [image-go](https://github.com/golang/image)
@@ -12,9 +14,13 @@ _Awesome projects_
   + [inpaint](https://github.com/cheind/inpaint)
 + Rust
   + [image-rust](https://github.com/PistonDevelopers/image)
+  + [kafka-rust](https://github.com/spicavigo/kafka-rust)
 + Javascript
   + [spectrum](https://github.com/withspectrum/spectrum)
   + [merge-images](https://github.com/lukechilds/merge-images)
+  + [v-dom](https://github.com/cyan33/v-dom)
+  + [npm-on-ipfs](https://github.com/ipfs-shipyard/npm-on-ipfs)
+  + [python-shell](https://github.com/extrabacon/python-shell)
 + [naglfar](https://github.com/maekawatoshiki/naglfar)
 + [comcast](https://github.com/tylertreat/comcast)
 + [setImmediate](https://github.com/YuzuJS/setImmediate)
@@ -24,9 +30,11 @@ _Awesome projects_
 + [click](https://github.com/databricks/click)
 + [qr-transferfile](https://github.com/claudiodangelis/qr-filetransfer)
 + [hotkeys](https://github.com/jaywcjlove/hotkeys)
++ [nebulet](https://github.com/nebulet/nebulet)
 + [markdownlink](https://github.com/DavidAnson/markdownlint)
 + [pupy](https://github.com/n1nj4sec/pupy)
 + [ink](https://github.com/vadimdemedes/ink)
++ [ink-box](https://github.com/sindresorhus/ink-box)
 + [is](https://github.com/sindresorhus/is)
 + [gitleaks](https://github.com/zricethezav/gitleaks)
 + [static](https://github.com/staticfile/static)
@@ -62,6 +70,7 @@ _Awesome projects_
 + [open-ocr](https://github.com/tleyden/open-ocr)
 + [enas](https://github.com/melodyguan/enas)
 + [datalab](https://github.com/googledatalab/datalab)
++ [algorithms](https://github.com/keon/algorithms)
 
 ### Analyse
 + [arvados](https://arvados.org)
@@ -72,7 +81,8 @@ _Awesome projects_
 + [pycallgraph](https://github.com/gak/pycallgraph)
 + [plotly](https://plot.ly)
 
-### Transformer
+### Compiler
++ [wcc](https://github.com/endrazine/wcc)
 + [observer-util](https://github.com/nx-js/observer-util)
 + [clasp](https://github.com/clasp-developers/clasp)
 + [typeorm](http://typeorm.io)
@@ -80,6 +90,10 @@ _Awesome projects_
 + [react-transition-group](https://github.com/reactjs/react-transition-group)
 + [TypeScript-React-Start](https://github.com/Microsoft/TypeScript-React-Starter)
 + [gluon](https://github.com/gluon-lang/gluon)
++ Rust
+  + [wasm-bindgen](https://github.com/alexcrichton/wasm-bindgen)
++ Python
+  + [black](https://github.com/ambv/black)
 
 ### Server
 + [ipfspics-server](https://github.com/ipfspics/ipfspics-server)
@@ -91,12 +105,19 @@ _Awesome projects_
 + [apollo-link](https://www.apollographql.com/docs/link/)
 + [RAP](https://github.com/thx/RAP)
 
-### Protocol
-+ [grpc-go](https://github.com/grpc/grpc-go)
+### Protocol 
 + [rpcx](https://github.com/smallnest/rpcx)
 + [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
 + [sockette](https://github.com/lukeed/sockette)
 + [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
++ Rust
+  + [mesalink](https://github.com/mesalock-linux/mesalink)
++ Go
+  + [grpc-go](https://github.com/grpc/grpc-go)
+  + [gophervista](https://github.com/benjojo/gophervista)
++ Javascript
+  + [sockjs-client](https://github.com/sockjs/sockjs-client)
+  + [devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol)
 
 ### crypto
 + [jshashes]()
@@ -110,8 +131,17 @@ _Awesome projects_
 + [issue-db](https://github.com/issue-db/issue-db)
 
 ### web
++ javascript
+  + [detect.js](https://github.com/darcyclarke/Detect.js)
 + [elasticsearch](https://www.elastic.co/products/elasticsearch)
+
+### Hardware
++ [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar)
++ [wasm-pack](https://github.com/ashleygwilliams/wasm-pack)
 
 ### Engine
 + [v8](https://github.com/v8/v8)
 + [flamebearer](https://github.com/mapbox/flamebearer)
+
+### Database
++ [GodMode2](https://github.com/vas3k/GodMode2)

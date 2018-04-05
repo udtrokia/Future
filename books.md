@@ -21,6 +21,8 @@ _books collection_
 + [github-cheat-sheet](http://git.io/sheet)
 + [may](https://github.com/Xudong-Huang/may)
 + [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
++ [react-native-guide](https://github.com/reactnativecn/react-native-guide)
++ [awesome-ios](https://github.com/vsouza/awesome-ios)
 + [post-mortems](https://github.com/danluu/post-mortems)
 + [manim](https://github.com/3b1b/manim)
 + C++
