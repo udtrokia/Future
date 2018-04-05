@@ -25,10 +25,13 @@ _books collection_
 + [awesome-ios](https://github.com/vsouza/awesome-ios)
 + [post-mortems](https://github.com/danluu/post-mortems)
 + [manim](https://github.com/3b1b/manim)
++ C
+  + [glmw](https://github.com/maierfelix/glmw)
 + C++
   + [leetcode](https://github.com/kamyu104/LeetCode)
 + javascript
   + [proposals](https://github.com/tc39/proposals)
+  + [localForage](https://github.com/localForage/localForage)
 
 ### grammar
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)

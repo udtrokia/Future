@@ -2,10 +2,10 @@
 # Collection about app-dev 
 
 ### Product
-
 + [reddti](https://github.com/reddit-archive/reddit1.0)
 + [react-kanban](https://github.com/yogaboll/react-kanban) 
 + [gocraft](https://github.com/icexin/gocraft)
++ [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 ### Links
 + [cookies](/cookies.md)
@@ -142,7 +142,7 @@
 + webpack
   + [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 + React
-  + [react-sommth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
+  + [react-soomth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 
 ### Storage
 + [docker](https://www.docker.com)
@@ -155,6 +155,7 @@
 ### Graph
 + [f2](https://github.com/antvis/f2)
 + [d3](https://github.com/d3/d3)
++ [jsketcher](https://github.com/xibyte/jsketcher)
 + [GraphicsJS](http://www.graphicsjs.org/)
 + [rough](http://roughjs.com)
 + [echarts](http://echarts.baidu.com)
