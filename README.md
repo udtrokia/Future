@@ -2,7 +2,7 @@
 
 | 💻             | 📄                 | 🍩                    | 🎯              | 🌈                   |
 | -------------- | ------------------ | --------------------- | --------------- | -------------------- |
-| [app](/app.md) | [books](/books.md) | [cookies](cookies.md) | [node](node.md) | [platform](platform) |
+| [app](/app.md) | [books](/books.md) | [cookies](cookies.md) | [node](node.md) | platform |
 
 ### Project  
 + uite: page
@@ -24,3 +24,8 @@
 + Algorithm: subsection
 + Fundamentals of Compiling: subsection
 
+### About me
+
+
+
+  
