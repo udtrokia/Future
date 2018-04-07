@@ -5,6 +5,7 @@ _books collection_
 + [Apollo-11](https://github.com/chrislgarry/Apollo-11)
 
 ### guide
++ [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 + [jupyter](https://github.com/jupyter/jupyter)
 + [gophers](https://github.com/ashleymcnamara/gophers)
 + [awesome-go](https://github.com/avelino/awesome-go)
@@ -26,13 +27,25 @@ _books collection_
 + [post-mortems](https://github.com/danluu/post-mortems)
 + [manim](https://github.com/3b1b/manim)
 + C
+  + [glmw](https://github.com/udtrokia?page=4&tab=stars)
   + [glmw](https://github.com/maierfelix/glmw)
 + C++
+  + [leela-zero](https://github.com/gcp/leela-zero)
+  + [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
   + [leetcode](https://github.com/kamyu104/LeetCode)
 + javascript
+  + [gollum](https://github.com/gollum/gollum)
+  + [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  + [learnVue](https://github.com/answershuto/learnVue)
   + [webProject](https://github.com/YUUXIAO/webProject)
   + [proposals](https://github.com/tc39/proposals)
   + [localForage](https://github.com/localForage/localForage)
+  + [awesome-egg](https://github.com/eggjs/awesome-egg)
+
+### Language
++ [elixir](https://github.com/elixir-lang/elixir)
++ [nim](https://github.com/nim-lang/Nim)
++ [julia](https://github.com/JuliaLang/julia)
 
 ### grammar
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
@@ -52,6 +65,7 @@ _books collection_
 ### Deep learning
 + [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 + [stats337](https://github.com/hadley/stats337)
++ [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 
 ### web
 + [micro-frontend](https://github.com/phodal/micro-frontend)

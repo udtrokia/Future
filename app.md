@@ -3,9 +3,13 @@
 
 ### Product
 + [reddti](https://github.com/reddit-archive/reddit1.0)
++ [realworld](https://github.com/gothinkster/realworld)
 + [react-kanban](https://github.com/yogaboll/react-kanban) 
++ [odoo](https://github.com/odoo/odoo)
 + [gocraft](https://github.com/icexin/gocraft)
 + [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
++ [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)
++ [zulip](https://github.com/zulip/zulip)
 
 ### Links
 + [cookies](/cookies.md)
@@ -15,6 +19,9 @@
 ### Framework
 + [mean](http://mean.io)
 + [vulcan](http://vulcanjs.org)
++ [phoenix](https://github.com/phoenixframework/phoenix)
++ [ink](https://github.com/sapo/Ink)
++ [avet](https://github.com/avetjs/avet)
 
 ### WorkFLow
 + [yogo](https://github.com/facebook/yoga)
@@ -40,7 +47,7 @@
 + [dashboards](http://keen.github.io/dashboards/)
 + [webdash](https://github.com/jadjoubran/webdash)
 
-### Server
+### Deploy
 + [netlify](https://www.netlify.com)
 + [surge](https://surge.sh/)
 + [heroku](https://github.com/heroku/heroku-buildpack-static)
@@ -49,6 +56,9 @@
   + [rust-webapp-starter](https://github.com/OUISRC/Rust-webapp-starter)
 
 ### CLI
++ [este](https://github.com/este/este)
++ [firestorm](https://github.com/dailydrip/firestorm)
++ [relay-starter-kit](https://github.com/relayjs/relay-starter-kit)
 + [ipt](https://github.com/ruyadorno/ipt)
 + [heimdall](http://gojek.tech)
 + [graphiql-app](https://github.com/skevy/graphiql-app)
@@ -70,6 +80,8 @@
 + [cargo-web](https://github.com/koute/cargo-web)
 
 ### CSS
++ [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
++ [mini-css-exract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
 + [material-swagger-ui](https://github.com/legendecas/material-swagger-ui)
 + [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 + [tabler](https://github.com/tabler/tabler)
@@ -108,6 +120,9 @@
 + [react-native-typescript-transformer](https://github.com/ds300/react-native-typescript-transformer)
 
 ### Toolkit
++ [appollo-link-firebase](https://github.com/Canner/apollo-link-firebase)
++ [create-next-app](https://github.com/segmentio/create-next-app)
++ [ice](https://github.com/alibaba/ice)
 + [slate](https://github.com/ianstormtaylor/slate)
 + [appollo-link-firebase](https://github.com/Canner/apollo-link-firebase)
 + [astexplorer](https://github.com/fkling/astexplorer)
@@ -115,6 +130,8 @@
 + [govern](https://github.com/jamesknelson/govern)
 + [electrify](https://github.com/arboleya/electrify)
 + [pm2](http://pm2.io/)
++ [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
++ [babel-eslint](https://github.com/babel/babel-eslint)
 + [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 + [winston](http://github.com/winstonjs/winston)
 + [pact-js](https://github.com/pact-foundation/pact-js)
@@ -143,6 +160,8 @@
   + [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 + React
   + [react-soomth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
++ wechat
+  + [wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk)
 
 ### Storage
 + [docker](https://www.docker.com)
@@ -160,10 +179,14 @@
 + [rough](http://roughjs.com)
 + [echarts](http://echarts.baidu.com)
 + [rechatrs](http://recharts.org)
++ [chartist-js](https://github.com/gionkunz/chartist-js)
 + [tui-chart](https://github.com/nhnent/tui.chart)
 
 ### Plugin
++ [flickity](https://github.com/metafizzy/flickity)
++ [babel-sublime](https://github.com/babel/babel-sublime)
 + [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions)
++ [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 + [react-contextual](https://github.com/drcmda/react-contextual)
 + [pell](https://jaredreich.com/pell)
 + [Cleave](http://nosir.github.io/cleave.js)

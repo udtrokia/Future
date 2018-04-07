@@ -1,6 +1,11 @@
 # Node
 _Node Developer_
 
++ [execa](https://github.com/sindresorhus/execa)
++ [jspaint](https://github.com/1j01/jspaint)
++ [ms](https://github.com/zeit/ms)
++ [ora](https://github.com/sindresorhus/ora)
++ [co-wechat-api](https://github.com/node-webot/co-wechat-api)
 + [node-source-map-support](https://github.com/evanw/node-source-map-support)
 + [async](https://github.com/caolan/async)
 + [node-hole](https://github.com/piglovesyou/node-hole)
@@ -14,3 +19,10 @@ _Node Developer_
 + [shadownode](https://github.com/Rokid/ShadowNode)
 + [co-wechat](https://github.com/node-webot/co-wechat)
 + [log4js-node](https://github.com/log4js-node/log4js-node)
++ [debug](https://github.com/visionmedia/debug)
++ [cross-env](https://github.com/kentcdodds/cross-env)
++ [yargs-parser](https://github.com/yargs/yargs-parser)
++ [yargs](https://github.com/yargs/yargs)
++ [update-notifier](https://github.com/yeoman/update-notifier)
++ [colors.js](https://github.com/Marak/colors.js)
++ [chalk]()
