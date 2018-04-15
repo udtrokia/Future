@@ -33,6 +33,8 @@ _Awesome projects_
   + [outline-client](https://github.com/Jigsaw-Code/outline-client)
   + [InstaPy](https://github.com/timgrossmann/InstaPy)
 + Javascript
+  + [list](https://github.com/javve/list.js)
+  + [fuzzysort](https://github.com/farzher/fuzzysort)
   + [jsketcher](https://github.com/xibyte/jsketcher)
   + [xterm.js](https://github.com/xtermjs/xterm.js)
   + [ccxt](https://github.com/ccxt/ccxt)
