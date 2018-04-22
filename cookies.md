@@ -33,6 +33,9 @@ _Awesome projects_
   + [outline-client](https://github.com/Jigsaw-Code/outline-client)
   + [InstaPy](https://github.com/timgrossmann/InstaPy)
 + Javascript
+  + [jimp](https://github.com/oliver-moran/jimp)
+  + [node-cross-spawn](https://github.com/moxystudio/node-cross-spawn)
+  + [helmet](https://github.com/moxystudio/node-cross-spawn)
   + [list](https://github.com/javve/list.js)
   + [fuzzysort](https://github.com/farzher/fuzzysort)
   + [jsketcher](https://github.com/xibyte/jsketcher)
@@ -155,6 +158,7 @@ _Awesome projects_
   + [grpc-go](https://github.com/grpc/grpc-go)
   + [gophervista](https://github.com/benjojo/gophervista)
 + Javascript
+  + [multi-node](https://github.com/kriszyp/multi-node)
   + [sockjs-client](https://github.com/sockjs/sockjs-client)
   + [devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol)
 
@@ -171,6 +175,7 @@ _Awesome projects_
 
 ### web
 + javascript
+  + [seajs](https://github.com/seajs/seajs)
   + [detect.js](https://github.com/darcyclarke/Detect.js)
 + [elasticsearch](https://www.elastic.co/products/elasticsearch)
 
