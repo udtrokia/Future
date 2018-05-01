@@ -5,6 +5,7 @@ _books collection_
 + [Apollo-11](https://github.com/chrislgarry/Apollo-11)
 
 ### guide
++ [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains)
 + [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 + [jupyter](https://github.com/jupyter/jupyter)
 + [gophers](https://github.com/ashleymcnamara/gophers)
@@ -46,6 +47,13 @@ _books collection_
 + [elixir](https://github.com/elixir-lang/elixir)
 + [nim](https://github.com/nim-lang/Nim)
 + [julia](https://github.com/JuliaLang/julia)
+
+### DAG
++ [react-dag](https://github.com/ajainarayanan/react-dag)
++ [dagobah](https://github.com/thieman/dagobah)
++ [ipld](https://github.com/ipld/ipld)
++ [dagre-d3](https://github.com/dagrejs/dagre-d3)
++ [dagre](https://github.com/dagrejs/dagre)
 
 ### grammar
 + [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
