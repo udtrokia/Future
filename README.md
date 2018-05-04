@@ -5,24 +5,19 @@
 | [app](/app.md) | [books](/books.md) | [cookies](cookies.md) | [node](node.md) | platform |
 
 ### Project  
-+ uite: page
-+ graphbox: function
++ gunjs virtual utilies env shell 
++ ipld package
++ consensus with recommend system backend
 
 ### Language Study  
-+ TypeScript: section
-+ Golang: any
-+ Rust: any
-+ Common Lisp: any
++ TypeScript
++ Golang
++ Scheme
 
 ### Blockchain  
-+ storage: any
-+ protcool: any
-+ consensus: any
+
 
 ### Reading  
-+ Browse gayhub
-+ Algorithm: subsection
-+ Fundamentals of Compiling: subsection
 
 ### About me
 
