@@ -8,6 +8,7 @@
 + gunjs virtual utilies env shell 
 + ipld package
 + consensus with recommend system backend
++ P2P
 
 ### Language Study  
 + TypeScript
