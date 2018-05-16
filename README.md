@@ -16,7 +16,8 @@
 + Scheme
 
 ### Blockchain  
-
++ [精通比特币](http://book.8btc.com/books/6/masterbitcoin2cn/_book/)
++ [RUST 语言教程](https://kaisery.gitbooks.io/rust-book-chinese/content/content/README%20介绍.html)
 
 ### Reading  
 
