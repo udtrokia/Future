@@ -4,10 +4,15 @@
 |----------------|--------------------|------------------------|------------------|
 | [app](/app.md) | [books](/books.md) | [cookies](/cookies.md) | [node](/node.md) |
 
+
 ![img](./assets/future.jpg)
 
 ### Devloping Project
-+ Radiancy - Yellow Brick Road - Learn Rust by Blockchain
++ Amnesia Machine - Next generation tool common people livin' with.
++ The Magic Flute - Blockchain Inner Data Browsing site.
++ Hyperfox - Blockchain data searching engine.
++ Zoo - Ecology of the new data world.
+
 
 ### About me
 + udtrokia@any.suffix
