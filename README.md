@@ -8,10 +8,10 @@
 ![img](./assets/future.jpg)
 
 ### Devloping Project
-+ Amnesia Machine - Next generation tool common people livin' with.
-+ The Magic Flute - Blockchain Inner Data Browsing site.
++ Amnesia.pub - Ethereum Data Display.
 + Hyperfox - Blockchain data searching engine.
-+ Zoo - Ecology of the new data world.
++ Barringerhill - medium.
++ Odditypark - ecology of ethereum devlopers.
 
 
 ### About me
